@@ -1,1 +1,13 @@
 * text=auto !eol
+bankdroid.sod/.classpath -text
+bankdroid.sod/.project -text
+bankdroid.sod/AndroidManifest.xml -text
+bankdroid.sod/default.properties -text
+bankdroid.sod/res/drawable/icon.png -text
+bankdroid.sod/res/drawable/khb_logo.gif -text
+bankdroid.sod/res/drawable/otp_logo.gif -text
+bankdroid.sod/res/layout/main.xml -text
+bankdroid.sod/res/values/strings.xml -text
+bankdroid.sod/src/bankdroid/sod/Formatters.java -text
+bankdroid.sod/src/bankdroid/sod/SMSOTPDisplay.java -text
+bankdroid.sod/src/bankdroid/sod/SMSReceiver.java -text
