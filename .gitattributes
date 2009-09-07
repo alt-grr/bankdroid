@@ -8,6 +8,6 @@ bankdroid.sod/res/drawable/khb_logo.gif -text
 bankdroid.sod/res/drawable/otp_logo.gif -text
 bankdroid.sod/res/layout/main.xml -text
 bankdroid.sod/res/values/strings.xml -text
-bankdroid.sod/src/bankdroid/sod/Formatters.java -text
-bankdroid.sod/src/bankdroid/sod/SMSOTPDisplay.java -text
-bankdroid.sod/src/bankdroid/sod/SMSReceiver.java -text
+bankdroid.sod/src/bankdroid/soda/Formatters.java -text
+bankdroid.sod/src/bankdroid/soda/SMSOTPDisplay.java -text
+bankdroid.sod/src/bankdroid/soda/SMSReceiver.java -text
