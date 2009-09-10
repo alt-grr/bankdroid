@@ -12,3 +12,4 @@ bankdroid.soda/src/bankdroid/soda/Bank.java -text
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
+bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
