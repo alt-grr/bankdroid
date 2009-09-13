@@ -6,10 +6,16 @@ bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable/icon.png -text
 bankdroid.soda/res/drawable/khb_logo.gif -text
 bankdroid.soda/res/drawable/otp_logo.gif -text
+bankdroid.soda/res/layout/bankedit.xml -text
+bankdroid.soda/res/layout/banklist.xml -text
 bankdroid.soda/res/layout/main.xml -text
+bankdroid.soda/res/layout/preferences.xml -text
+bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/src/bankdroid/soda/Bank.java -text
+bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
+bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
 bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
