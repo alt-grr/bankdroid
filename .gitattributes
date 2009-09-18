@@ -3,6 +3,7 @@ bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/AndroidManifest.xml -text
 bankdroid.soda/default.properties -text
+bankdroid.soda/res/drawable/background2.9.png -text
 bankdroid.soda/res/drawable/icon.png -text
 bankdroid.soda/res/drawable/khb_logo.gif -text
 bankdroid.soda/res/drawable/otp_logo.gif -text
