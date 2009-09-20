@@ -23,6 +23,7 @@ bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/src/bankdroid/soda/Bank.java -text
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
+bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
 bankdroid.soda/src/bankdroid/soda/Preferences.java -text
