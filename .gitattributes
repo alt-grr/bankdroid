@@ -16,6 +16,7 @@ bankdroid.soda/res/drawable/otp2_logo.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/layout/bankedit.xml -text
 bankdroid.soda/res/layout/banklist.xml -text
+bankdroid.soda/res/layout/banklistitem.xml -text
 bankdroid.soda/res/layout/main.xml -text
 bankdroid.soda/res/layout/preferences.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
