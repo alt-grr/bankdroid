@@ -11,6 +11,7 @@ bankdroid.soda/res/drawable/citibank_logo.png -text
 bankdroid.soda/res/drawable/erste_logo.png -text
 bankdroid.soda/res/drawable/fhb_logo.png -text
 bankdroid.soda/res/drawable/icon.png -text
+bankdroid.soda/res/drawable/itembackground.xml -text svneol=unset#text/plain
 bankdroid.soda/res/drawable/kh_logo.png -text
 bankdroid.soda/res/drawable/mkb_logo.png -text
 bankdroid.soda/res/drawable/otp2_logo.png -text
@@ -23,7 +24,9 @@ bankdroid.soda/res/layout/main.xml -text
 bankdroid.soda/res/layout/preferences.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
+bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Bank.java -text
+bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
 bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
