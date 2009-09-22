@@ -1,6 +1,7 @@
 * text=auto !eol
 bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
+bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 bankdroid.soda/AndroidManifest.xml -text
 bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
@@ -13,6 +14,7 @@ bankdroid.soda/res/drawable/icon.png -text
 bankdroid.soda/res/drawable/kh_logo.png -text
 bankdroid.soda/res/drawable/mkb_logo.png -text
 bankdroid.soda/res/drawable/otp2_logo.png -text
+bankdroid.soda/res/drawable/raiffeisen_logo.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/layout/bankedit.xml -text
 bankdroid.soda/res/layout/banklist.xml -text
