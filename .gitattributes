@@ -38,3 +38,6 @@ bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
 bankdroid.start/res/drawable/icon.png -text
 bankdroid.start/res/layout/start.xml -text
 bankdroid.start/res/values/strings.xml -text
+bankdroid.start/src/bankdroid/start/Codes.java -text
+bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
+bankdroid.start/src/bankdroid/start/StartActivity.java -text
