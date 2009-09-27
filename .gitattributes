@@ -35,6 +35,10 @@ bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
 bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
+bankdroid.start/.classpath -text
+bankdroid.start/.project -text
+bankdroid.start/AndroidManifest.xml -text
+bankdroid.start/default.properties -text
 bankdroid.start/res/drawable/icon.png -text
 bankdroid.start/res/layout/start.xml -text
 bankdroid.start/res/values/strings.xml -text
