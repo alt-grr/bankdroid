@@ -35,3 +35,6 @@ bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
 bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
+bankdroid.start/res/drawable/icon.png -text
+bankdroid.start/res/layout/start.xml -text
+bankdroid.start/res/values/strings.xml -text
