@@ -6,6 +6,7 @@ bankdroid.soda/AndroidManifest.xml -text
 bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
 bankdroid.soda/res/drawable/background2.9.png -text
+bankdroid.soda/res/drawable/bankdroid_logo.png -text
 bankdroid.soda/res/drawable/budapestbank_logo.png -text
 bankdroid.soda/res/drawable/citibank_logo.png -text
 bankdroid.soda/res/drawable/erste_logo.png -text
@@ -20,8 +21,8 @@ bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/layout/bankedit.xml -text
 bankdroid.soda/res/layout/banklist.xml -text
 bankdroid.soda/res/layout/banklistitem.xml -text
-bankdroid.soda/res/layout/main.xml -text
 bankdroid.soda/res/layout/preferences.xml -text
+bankdroid.soda/res/layout/sod.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
