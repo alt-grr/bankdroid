@@ -21,6 +21,7 @@ bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/layout/bankedit.xml -text
 bankdroid.soda/res/layout/banklist.xml -text
 bankdroid.soda/res/layout/banklistitem.xml -text
+bankdroid.soda/res/layout/main.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/preferences.xml -text
 bankdroid.soda/res/layout/sod.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
@@ -31,6 +32,7 @@ bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
 bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
+bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
 bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
