@@ -26,7 +26,6 @@ bankdroid.soda/res/layout/preferences.xml -text
 bankdroid.soda/res/layout/smslist.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/smslistitem.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/sod.xml -text
-bankdroid.soda/res/layout/submit.xml -text svneol=unset#text/plain
 bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
@@ -42,7 +41,6 @@ bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSListActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
-bankdroid.soda/src/bankdroid/soda/SubmitActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
 bankdroid.start/.classpath -text
 bankdroid.start/.project -text
