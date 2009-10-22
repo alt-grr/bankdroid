@@ -18,6 +18,7 @@ bankdroid.soda/res/drawable/mkb_logo.png -text
 bankdroid.soda/res/drawable/otp2_logo.png -text
 bankdroid.soda/res/drawable/raiffeisen_logo.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
+bankdroid.soda/res/layout/about.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/bankedit.xml -text
 bankdroid.soda/res/layout/banklist.xml -text
 bankdroid.soda/res/layout/banklistitem.xml -text
@@ -29,6 +30,7 @@ bankdroid.soda/res/layout/sod.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
+bankdroid.soda/src/bankdroid/soda/AboutActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Bank.java -text
 bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
