@@ -3,6 +3,7 @@ bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 bankdroid.soda/AndroidManifest.xml -text
+bankdroid.soda/assets/bankdef1.xml -text svneol=unset#text/plain
 bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
 bankdroid.soda/res/drawable/background2.9.png -text
@@ -11,7 +12,6 @@ bankdroid.soda/res/drawable/budapestbank_logo.png -text
 bankdroid.soda/res/drawable/citibank_logo.png -text
 bankdroid.soda/res/drawable/erste_logo.png -text
 bankdroid.soda/res/drawable/fhb_logo.png -text
-bankdroid.soda/res/drawable/icon.png -text
 bankdroid.soda/res/drawable/itembackground.xml -text svneol=unset#text/plain
 bankdroid.soda/res/drawable/kh_logo.png -text
 bankdroid.soda/res/drawable/mkb_logo.png -text
@@ -32,8 +32,10 @@ bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/AboutActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Bank.java -text
+bankdroid.soda/src/bankdroid/soda/BankDefinitionHandler.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
+bankdroid.soda/src/bankdroid/soda/BankManager.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
