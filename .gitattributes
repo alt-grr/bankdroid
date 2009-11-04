@@ -17,6 +17,7 @@ bankdroid.soda/res/drawable/kh_logo.png -text
 bankdroid.soda/res/drawable/mkb_logo.png -text
 bankdroid.soda/res/drawable/otp2_logo.png -text
 bankdroid.soda/res/drawable/raiffeisen_logo.png -text
+bankdroid.soda/res/drawable/soda_launch.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/layout/about.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/bankedit.xml -text
