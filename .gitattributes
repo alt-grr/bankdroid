@@ -3,6 +3,7 @@ bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 bankdroid.soda/AndroidManifest.xml -text
+bankdroid.soda/BankTest.launch -text
 bankdroid.soda/assets/bankdef1.xml -text svneol=unset#text/plain
 bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
@@ -28,6 +29,8 @@ bankdroid.soda/res/layout/preferences.xml -text
 bankdroid.soda/res/layout/smslist.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/smslistitem.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/sod.xml -text
+bankdroid.soda/res/menu/banklistcontextmenu.xml -text
+bankdroid.soda/res/menu/banklistmenu.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
