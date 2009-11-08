@@ -45,6 +45,7 @@ bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
 bankdroid.soda/src/bankdroid/soda/Main.java -text svneol=unset#text/plain
+bankdroid.soda/src/bankdroid/soda/Message.java -text
 bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSListActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
