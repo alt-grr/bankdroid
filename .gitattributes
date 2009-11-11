@@ -4,6 +4,7 @@ bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 bankdroid.soda/AndroidManifest.xml -text
 bankdroid.soda/BankTest.launch -text
+bankdroid.soda/assets/EULA -text
 bankdroid.soda/assets/bankdef1.xml -text svneol=unset#text/plain
 bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
@@ -43,6 +44,7 @@ bankdroid.soda/src/bankdroid/soda/BankManager.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
+bankdroid.soda/src/bankdroid/soda/Eula.java -text
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
 bankdroid.soda/src/bankdroid/soda/Main.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Message.java -text
