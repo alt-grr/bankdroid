@@ -11,7 +11,9 @@ AndroidPortal.hu/res/layout/rsslist.xml -text
 AndroidPortal.hu/res/layout/rsslistitem.xml -text
 AndroidPortal.hu/res/layout/test.xml -text
 AndroidPortal.hu/res/layout/viewitem.xml -text
+AndroidPortal.hu/res/layout/widget.xml -text
 AndroidPortal.hu/res/values/strings.xml -text
+AndroidPortal.hu/res/xml/portal_widget_info.xml -text
 AndroidPortal.hu/src/hu/androidportal/Codes.java -text
 AndroidPortal.hu/src/hu/androidportal/ItemListActivity.java -text
 AndroidPortal.hu/src/hu/androidportal/ItemViewActivity.java -text
@@ -25,6 +27,8 @@ AndroidPortal.hu/src/hu/androidportal/rss/RSSObject.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/RSSStream.java -text
 AndroidPortal.hu/src/hu/androidportal/test/RSSStreamTest.java -text
 AndroidPortal.hu/src/hu/androidportal/test/magyarandroidportal.xml -text
+AndroidPortal.hu/src/hu/androidportal/widget/PortalWidgetProvider.java -text
+AndroidPortal.hu/src/hu/androidportal/widget/PortalWidgetReceiver.java -text
 bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
