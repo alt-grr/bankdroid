@@ -22,6 +22,7 @@ AndroidPortal.hu/src/hu/androidportal/ItemListActivity.java -text
 AndroidPortal.hu/src/hu/androidportal/ItemViewActivity.java -text
 AndroidPortal.hu/src/hu/androidportal/PreferencesActivity.java -text
 AndroidPortal.hu/src/hu/androidportal/RSSItemProvider.java -text
+AndroidPortal.hu/src/hu/androidportal/RSSSyncService.java -text
 AndroidPortal.hu/src/hu/androidportal/Test.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/Formatters.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/RSSChannel.java -text
