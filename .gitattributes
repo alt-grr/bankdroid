@@ -69,6 +69,7 @@ bankdroid.soda/res/layout/sod.xml -text
 bankdroid.soda/res/menu/banklistcontextmenu.xml -text
 bankdroid.soda/res/menu/banklistmenu.xml -text
 bankdroid.soda/res/menu/mainmenu.xml -text
+bankdroid.soda/res/values-hu/strings.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/AboutActivity.java -text svneol=unset#text/plain
