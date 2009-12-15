@@ -26,6 +26,7 @@ AndroidPortal.hu/src/hu/androidportal/RSSServiceStartReceiver.java -text
 AndroidPortal.hu/src/hu/androidportal/RSSSyncService.java -text
 AndroidPortal.hu/src/hu/androidportal/Test.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/Formatters.java -text
+AndroidPortal.hu/src/hu/androidportal/rss/HTMLEntities.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/RSSChannel.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/RSSHandler.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/RSSItem.java -text
