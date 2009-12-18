@@ -3,10 +3,12 @@ AndroidPortal.hu/.classpath -text
 AndroidPortal.hu/.project -text
 AndroidPortal.hu/AndroidManifest.xml -text
 AndroidPortal.hu/default.properties -text
+AndroidPortal.hu/res/drawable/androidportal.png -text
 AndroidPortal.hu/res/drawable/droidlogo.png -text
 AndroidPortal.hu/res/drawable/icon.png -text
 AndroidPortal.hu/res/drawable/itembackground.xml -text
 AndroidPortal.hu/res/drawable/titlebackground.xml -text
+AndroidPortal.hu/res/drawable/titleborder.xml -text svneol=unset#text/plain
 AndroidPortal.hu/res/layout/preferences.xml -text
 AndroidPortal.hu/res/layout/rsslist.xml -text
 AndroidPortal.hu/res/layout/rsslistitem.xml -text
