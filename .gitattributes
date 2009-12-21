@@ -3,8 +3,8 @@ AndroidPortal.hu/.classpath -text
 AndroidPortal.hu/.project -text
 AndroidPortal.hu/AndroidManifest.xml -text
 AndroidPortal.hu/default.properties -text
-AndroidPortal.hu/res/drawable/androidportal.png -text
-AndroidPortal.hu/res/drawable/droidlogo.png -text
+AndroidPortal.hu/res/drawable/aphu_logo.png -text
+AndroidPortal.hu/res/drawable/aphu_title.png -text
 AndroidPortal.hu/res/drawable/icon.png -text
 AndroidPortal.hu/res/drawable/itembackground.xml -text
 AndroidPortal.hu/res/drawable/titlebackground.xml -text
