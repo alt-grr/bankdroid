@@ -11,16 +11,18 @@ AndroidPortal.hu/res/drawable/titlebackground.xml -text
 AndroidPortal.hu/res/drawable/titleborder.xml -text svneol=unset#text/plain
 AndroidPortal.hu/res/drawable/widgetframe_41.png -text
 AndroidPortal.hu/res/drawable/widgetframe_source_41.png -text
+AndroidPortal.hu/res/layout/about.xml -text svneol=unset#text/plain
 AndroidPortal.hu/res/layout/preferences.xml -text
 AndroidPortal.hu/res/layout/rsslist.xml -text
 AndroidPortal.hu/res/layout/rsslistitem.xml -text
-AndroidPortal.hu/res/layout/test.xml -text
 AndroidPortal.hu/res/layout/viewitem.xml -text
 AndroidPortal.hu/res/layout/widget.xml -text
+AndroidPortal.hu/res/menu/itemmenu.xml -text svneol=unset#text/plain
 AndroidPortal.hu/res/menu/mainmenu.xml -text
 AndroidPortal.hu/res/values/arrays.xml -text
 AndroidPortal.hu/res/values/strings.xml -text
 AndroidPortal.hu/res/xml/portal_widget_info.xml -text
+AndroidPortal.hu/src/hu/androidportal/AboutActivity.java -text svneol=unset#text/plain
 AndroidPortal.hu/src/hu/androidportal/Codes.java -text
 AndroidPortal.hu/src/hu/androidportal/ItemListActivity.java -text
 AndroidPortal.hu/src/hu/androidportal/ItemViewActivity.java -text
@@ -28,7 +30,6 @@ AndroidPortal.hu/src/hu/androidportal/PreferencesActivity.java -text
 AndroidPortal.hu/src/hu/androidportal/RSSItemProvider.java -text
 AndroidPortal.hu/src/hu/androidportal/RSSServiceStartReceiver.java -text
 AndroidPortal.hu/src/hu/androidportal/RSSSyncService.java -text
-AndroidPortal.hu/src/hu/androidportal/Test.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/Formatters.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/HTMLEntities.java -text
 AndroidPortal.hu/src/hu/androidportal/rss/RSSChannel.java -text
@@ -39,7 +40,6 @@ AndroidPortal.hu/src/hu/androidportal/rss/RSSStream.java -text
 AndroidPortal.hu/src/hu/androidportal/test/RSSStreamTest.java -text
 AndroidPortal.hu/src/hu/androidportal/test/magyarandroidportal.xml -text
 AndroidPortal.hu/src/hu/androidportal/widget/PortalWidgetProvider.java -text
-AndroidPortal.hu/src/hu/androidportal/widget/PortalWidgetReceiver.java -text
 bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
