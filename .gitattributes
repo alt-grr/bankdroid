@@ -5,7 +5,7 @@ AndroidPortal.hu/AndroidManifest.xml -text
 AndroidPortal.hu/default.properties -text
 AndroidPortal.hu/res/drawable/aphu_logo.png -text
 AndroidPortal.hu/res/drawable/aphu_title.png -text
-AndroidPortal.hu/res/drawable/icon.png -text
+AndroidPortal.hu/res/drawable/aphuicon.png -text
 AndroidPortal.hu/res/drawable/itembackground.xml -text
 AndroidPortal.hu/res/drawable/mini_refresh.png -text
 AndroidPortal.hu/res/drawable/titlebackground.xml -text
