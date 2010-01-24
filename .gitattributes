@@ -54,14 +54,18 @@ bankdroid.soda/res/drawable/background2.9.png -text
 bankdroid.soda/res/drawable/bankdroid_logo.png -text
 bankdroid.soda/res/drawable/budapestbank_logo.png -text
 bankdroid.soda/res/drawable/citibank_logo.png -text
+bankdroid.soda/res/drawable/donate2.png -text
 bankdroid.soda/res/drawable/erste_logo.png -text
 bankdroid.soda/res/drawable/fhb_logo.png -text
+bankdroid.soda/res/drawable/gmail_icon.png -text
+bankdroid.soda/res/drawable/info_icon.png -text
 bankdroid.soda/res/drawable/itembackground.xml -text svneol=unset#text/plain
 bankdroid.soda/res/drawable/kh_logo.png -text
 bankdroid.soda/res/drawable/mkb_logo.png -text
 bankdroid.soda/res/drawable/otp2_logo.png -text
 bankdroid.soda/res/drawable/raiffeisen_logo.png -text
 bankdroid.soda/res/drawable/soda_launch.png -text
+bankdroid.soda/res/drawable/twitter_icon.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/layout/about.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/bankedit.xml -text
