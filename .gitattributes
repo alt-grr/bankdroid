@@ -62,6 +62,7 @@ bankdroid.andralytics/res/drawable/twitter_button.xml -text
 bankdroid.andralytics/res/drawable/twitter_icon_large.png -text
 bankdroid.andralytics/res/drawable/twitter_icon_small.png -text
 bankdroid.andralytics/res/layout/main.xml -text
+bankdroid.andralytics/res/values-hu/strings.xml -text
 bankdroid.andralytics/res/values/strings.xml -text
 bankdroid.andralytics/src/bankdroid/andralytics/MainActivity.java -text
 bankdroid.andralytics/src/bankdroid/andralytics/ShareUtils.java -text
