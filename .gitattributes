@@ -152,3 +152,9 @@ bankdroid.start/src/bankdroid/start/AccountListActivity.java -text svneol=unset#
 bankdroid.start/src/bankdroid/start/Codes.java -text
 bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
 bankdroid.start/src/bankdroid/start/StartActivity.java -text
+bankdroid.tool/.classpath -text
+bankdroid.tool/.project -text
+bankdroid.tool/src/bankdroid/tool/translation/Main.java -text
+bankdroid.tool/src/bankdroid/tool/translation/ProjectExplorer.java -text
+bankdroid.tool/src/bankdroid/tool/translation/StringHandler.java -text
+bankdroid.tool/src/bankdroid/tool/translation/Strings.java -text
