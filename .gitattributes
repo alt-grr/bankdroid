@@ -147,7 +147,6 @@ bankdroid.start/res/layout/accountlist.xml -text svneol=unset#text/plain
 bankdroid.start/res/layout/accountlist_item.xml -text svneol=unset#text/plain
 bankdroid.start/res/layout/start.xml -text
 bankdroid.start/res/values/strings.xml -text
-bankdroid.start/res/values/styles.xml -text svneol=unset#text/plain
 bankdroid.start/src/bankdroid/start/AccountListActivity.java -text svneol=unset#text/plain
 bankdroid.start/src/bankdroid/start/Codes.java -text
 bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
