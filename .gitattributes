@@ -143,8 +143,6 @@ bankdroid.start/.project -text
 bankdroid.start/AndroidManifest.xml -text
 bankdroid.start/default.properties -text
 bankdroid.start/res/drawable/icon.png -text
-bankdroid.start/res/layout/accountlist.xml -text svneol=unset#text/plain
-bankdroid.start/res/layout/accountlist_item.xml -text svneol=unset#text/plain
 bankdroid.start/res/layout/main.xml -text
 bankdroid.start/res/layout/start.xml -text
 bankdroid.start/res/values/strings.xml -text
