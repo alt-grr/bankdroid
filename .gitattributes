@@ -142,6 +142,7 @@ bankdroid.start/.classpath -text
 bankdroid.start/.project -text
 bankdroid.start/AndroidManifest.xml -text
 bankdroid.start/default.properties -text
+bankdroid.start/libs/libGoogleAnalytics.jar -text
 bankdroid.start/res/drawable/bankdroid_icon.png -text
 bankdroid.start/res/drawable/bankdroid_logo.png -text
 bankdroid.start/res/drawable/icon.png -text
@@ -168,6 +169,7 @@ bankdroid.start/src/bankdroid/start/ServiceActivity.java -text
 bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
 bankdroid.start/src/bankdroid/start/SessionManager.java -text
 bankdroid.start/src/bankdroid/start/StartActivity.java -text
+bankdroid.start/src/bankdroid/start/TrackedActivity.java -text
 bankdroid.start/src/bankdroid/start/plugin/PluginManager.java -text
 bankdroid.tool/.classpath -text
 bankdroid.tool/.project -text
