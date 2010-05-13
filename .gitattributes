@@ -155,6 +155,8 @@ bankdroid.start/res/layout/bankitem.xml -text
 bankdroid.start/res/layout/main.xml -text
 bankdroid.start/res/layout/preferences.xml -text
 bankdroid.start/res/layout/start.xml -text
+bankdroid.start/res/layout/tranitem.xml -text
+bankdroid.start/res/layout/tranlist.xml -text
 bankdroid.start/res/menu/mainmenu.xml -text
 bankdroid.start/res/values/colors.xml -text
 bankdroid.start/res/values/strings.xml -text
@@ -163,6 +165,7 @@ bankdroid.start/src/bankdroid/start/AccountAdapter.java -text
 bankdroid.start/src/bankdroid/start/AccountListActivity.java -text
 bankdroid.start/src/bankdroid/start/BankAdapter.java -text
 bankdroid.start/src/bankdroid/start/Codes.java -text
+bankdroid.start/src/bankdroid/start/FakeAccountService.java -text
 bankdroid.start/src/bankdroid/start/MainActivity.java -text
 bankdroid.start/src/bankdroid/start/Preferences.java -text
 bankdroid.start/src/bankdroid/start/ServiceActivity.java -text
@@ -170,6 +173,9 @@ bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
 bankdroid.start/src/bankdroid/start/SessionManager.java -text
 bankdroid.start/src/bankdroid/start/StartActivity.java -text
 bankdroid.start/src/bankdroid/start/TrackedActivity.java -text
+bankdroid.start/src/bankdroid/start/TransactionAdapter.java -text
+bankdroid.start/src/bankdroid/start/TransactionFilter.java -text
+bankdroid.start/src/bankdroid/start/TransactionListActivity.java -text
 bankdroid.start/src/bankdroid/start/plugin/PluginManager.java -text
 bankdroid.tool/.classpath -text
 bankdroid.tool/.project -text
