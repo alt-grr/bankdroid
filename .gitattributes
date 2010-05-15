@@ -146,6 +146,7 @@ bankdroid.start/libs/libGoogleAnalytics.jar -text
 bankdroid.start/res/drawable/bankdroid_icon.png -text
 bankdroid.start/res/drawable/bankdroid_logo.png -text
 bankdroid.start/res/drawable/icon.png -text
+bankdroid.start/res/drawable/icon_calendar.png -text
 bankdroid.start/res/drawable/itembackground.xml -text
 bankdroid.start/res/drawable/select_button.xml -text
 bankdroid.start/res/drawable/transp_button.xml -text
@@ -154,6 +155,7 @@ bankdroid.start/res/layout/accountlist.xml -text
 bankdroid.start/res/layout/bankitem.xml -text
 bankdroid.start/res/layout/main.xml -text
 bankdroid.start/res/layout/preferences.xml -text
+bankdroid.start/res/layout/searchtransaction.xml -text
 bankdroid.start/res/layout/start.xml -text
 bankdroid.start/res/layout/tranitem.xml -text
 bankdroid.start/res/layout/tranlist.xml -text
@@ -169,6 +171,7 @@ bankdroid.start/src/bankdroid/start/Codes.java -text
 bankdroid.start/src/bankdroid/start/FakeAccountService.java -text
 bankdroid.start/src/bankdroid/start/MainActivity.java -text
 bankdroid.start/src/bankdroid/start/Preferences.java -text
+bankdroid.start/src/bankdroid/start/SearchTransactionActivity.java -text
 bankdroid.start/src/bankdroid/start/ServiceActivity.java -text
 bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
 bankdroid.start/src/bankdroid/start/SessionManager.java -text
