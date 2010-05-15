@@ -157,6 +157,7 @@ bankdroid.start/res/layout/preferences.xml -text
 bankdroid.start/res/layout/start.xml -text
 bankdroid.start/res/layout/tranitem.xml -text
 bankdroid.start/res/layout/tranlist.xml -text
+bankdroid.start/res/menu/acclistcontextmenu.xml -text
 bankdroid.start/res/menu/mainmenu.xml -text
 bankdroid.start/res/values/colors.xml -text
 bankdroid.start/res/values/strings.xml -text
