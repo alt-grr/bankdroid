@@ -145,6 +145,7 @@ bankdroid.start/default.properties -text
 bankdroid.start/libs/libGoogleAnalytics.jar -text
 bankdroid.start/res/drawable/bankdroid_icon.png -text
 bankdroid.start/res/drawable/bankdroid_logo.png -text
+bankdroid.start/res/drawable/bankdroid_status_icon.png -text
 bankdroid.start/res/drawable/icon.png -text
 bankdroid.start/res/drawable/icon_calendar.png -text
 bankdroid.start/res/drawable/itembackground.xml -text
