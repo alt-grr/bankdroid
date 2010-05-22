@@ -147,12 +147,17 @@ bankdroid.start/res/drawable/action_button.xml -text
 bankdroid.start/res/drawable/bankdroid_icon.png -text
 bankdroid.start/res/drawable/bankdroid_logo.png -text
 bankdroid.start/res/drawable/bankdroid_status_icon.png -text
+bankdroid.start/res/drawable/donate2.png -text
 bankdroid.start/res/drawable/field_background.xml -text
+bankdroid.start/res/drawable/gmail_icon.png -text
 bankdroid.start/res/drawable/icon.png -text
 bankdroid.start/res/drawable/icon_calendar.png -text
+bankdroid.start/res/drawable/info_icon.png -text
 bankdroid.start/res/drawable/itembackground.xml -text
 bankdroid.start/res/drawable/select_button.xml -text
 bankdroid.start/res/drawable/transp_button.xml -text
+bankdroid.start/res/drawable/twitter_icon.png -text
+bankdroid.start/res/layout/about.xml -text
 bankdroid.start/res/layout/accountitem.xml -text
 bankdroid.start/res/layout/accountlist.xml -text
 bankdroid.start/res/layout/bankitem.xml -text
@@ -169,6 +174,7 @@ bankdroid.start/res/menu/mainmenu.xml -text
 bankdroid.start/res/values/colors.xml -text
 bankdroid.start/res/values/strings.xml -text
 bankdroid.start/res/values/styles.xml -text
+bankdroid.start/src/bankdroid/start/AboutActivity.java -text
 bankdroid.start/src/bankdroid/start/AccountAdapter.java -text
 bankdroid.start/src/bankdroid/start/AccountListActivity.java -text
 bankdroid.start/src/bankdroid/start/BankAdapter.java -text
