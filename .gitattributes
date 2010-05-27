@@ -192,6 +192,7 @@ bankdroid.start/src/bankdroid/start/StartActivity.java -text
 bankdroid.start/src/bankdroid/start/TransactionAdapter.java -text
 bankdroid.start/src/bankdroid/start/TransactionFilter.java -text
 bankdroid.start/src/bankdroid/start/TransactionListActivity.java -text
+bankdroid.start/src/bankdroid/start/messages.properties -text
 bankdroid.start/src/bankdroid/start/plugin/PluginManager.java -text
 bankdroid.start/src/bankdroid/util/GUIUtil.java -text
 bankdroid.start/src/bankdroid/util/TrackedActivity.java -text
