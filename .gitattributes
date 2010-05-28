@@ -141,6 +141,7 @@ bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
 bankdroid.start/.classpath -text
 bankdroid.start/.project -text
 bankdroid.start/AndroidManifest.xml -text
+bankdroid.start/assets/EULA -text
 bankdroid.start/default.properties -text
 bankdroid.start/libs/libGoogleAnalytics.jar -text
 bankdroid.start/res/drawable/action_button.xml -text
@@ -179,6 +180,7 @@ bankdroid.start/src/bankdroid/start/AccountAdapter.java -text
 bankdroid.start/src/bankdroid/start/AccountListActivity.java -text
 bankdroid.start/src/bankdroid/start/BankAdapter.java -text
 bankdroid.start/src/bankdroid/start/Codes.java -text
+bankdroid.start/src/bankdroid/start/Eula.java -text
 bankdroid.start/src/bankdroid/start/FakeAccountService.java -text
 bankdroid.start/src/bankdroid/start/MainActivity.java -text
 bankdroid.start/src/bankdroid/start/Preferences.java -text
