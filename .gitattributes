@@ -80,7 +80,9 @@ bankdroid.soda/assets/bankdef4.xml -text
 bankdroid.soda/assets/bankdef5.xml -text
 bankdroid.soda/assets/bankdef6.xml -text
 bankdroid.soda/assets/bankdef7.xml -text
+bankdroid.soda/assets/bankdef8.xml -text
 bankdroid.soda/default.properties -text
+bankdroid.soda/res/drawable/alfabank_logo.png -text
 bankdroid.soda/res/drawable/aliorbank_logo.png -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
 bankdroid.soda/res/drawable/background2.9.png -text
