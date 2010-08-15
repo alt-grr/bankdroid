@@ -165,6 +165,11 @@ bankdroid.start/res/drawable/icon.png -text
 bankdroid.start/res/drawable/icon_calendar.png -text
 bankdroid.start/res/drawable/info_icon.png -text
 bankdroid.start/res/drawable/itembackground.xml -text
+bankdroid.start/res/drawable/menu_accounts.png -text
+bankdroid.start/res/drawable/menu_logout.png -text
+bankdroid.start/res/drawable/menu_profile.png -text
+bankdroid.start/res/drawable/menu_transactions.png -text
+bankdroid.start/res/drawable/menubuttonbackground.xml -text
 bankdroid.start/res/drawable/select_button.xml -text
 bankdroid.start/res/drawable/transp_button.xml -text
 bankdroid.start/res/drawable/twitter_icon.png -text
@@ -173,6 +178,7 @@ bankdroid.start/res/layout/accountitem.xml -text
 bankdroid.start/res/layout/accountlist.xml -text
 bankdroid.start/res/layout/bankitem.xml -text
 bankdroid.start/res/layout/main.xml -text
+bankdroid.start/res/layout/main_icons.xml -text
 bankdroid.start/res/layout/preferences.xml -text
 bankdroid.start/res/layout/propertyitem.xml -text
 bankdroid.start/res/layout/propertyview.xml -text
