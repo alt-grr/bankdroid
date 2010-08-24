@@ -216,7 +216,6 @@ bankdroid.start/src/bankdroid/start/SearchTransactionActivity.java -text
 bankdroid.start/src/bankdroid/start/ServiceActivity.java -text
 bankdroid.start/src/bankdroid/start/ServiceRunner.java -text
 bankdroid.start/src/bankdroid/start/SessionManager.java -text
-bankdroid.start/src/bankdroid/start/StartActivity.java -text
 bankdroid.start/src/bankdroid/start/TransactionAdapter.java -text
 bankdroid.start/src/bankdroid/start/TransactionFilter.java -text
 bankdroid.start/src/bankdroid/start/TransactionListActivity.java -text
