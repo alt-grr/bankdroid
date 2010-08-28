@@ -182,6 +182,7 @@ bankdroid.start/res/layout/auth_dummy.xml -text
 bankdroid.start/res/layout/auth_otp.xml -text
 bankdroid.start/res/layout/authbankselect.xml -text
 bankdroid.start/res/layout/authstart.xml -text
+bankdroid.start/res/layout/customeritem.xml -text
 bankdroid.start/res/layout/main.xml -text
 bankdroid.start/res/layout/main_icons.xml -text
 bankdroid.start/res/layout/onerow.xml -text
@@ -204,7 +205,6 @@ bankdroid.start/res/values/styles.xml -text
 bankdroid.start/src/bankdroid/start/AboutActivity.java -text
 bankdroid.start/src/bankdroid/start/AccountAdapter.java -text
 bankdroid.start/src/bankdroid/start/AccountListActivity.java -text
-bankdroid.start/src/bankdroid/start/BankAdapter.java -text
 bankdroid.start/src/bankdroid/start/Codes.java -text
 bankdroid.start/src/bankdroid/start/Eula.java -text
 bankdroid.start/src/bankdroid/start/FakeAccountService.java -text
@@ -223,8 +223,11 @@ bankdroid.start/src/bankdroid/start/auth/AuthBankSelectActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/AuthStartActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/AuthUtil.java -text
 bankdroid.start/src/bankdroid/start/auth/BHAAuthActivity.java -text
+bankdroid.start/src/bankdroid/start/auth/BankAdapter.java -text
+bankdroid.start/src/bankdroid/start/auth/CustomerAdapter.java -text
 bankdroid.start/src/bankdroid/start/auth/DummyAuthActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/OTPAuthActivity.java -text
+bankdroid.start/src/bankdroid/start/auth/SecureRegistry.java -text
 bankdroid.start/src/bankdroid/start/messages.properties -text
 bankdroid.start/src/bankdroid/start/plugin/PluginManager.java -text
 bankdroid.start/src/bankdroid/util/GUIUtil.java -text
