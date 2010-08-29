@@ -231,6 +231,8 @@ bankdroid.start/src/bankdroid/start/auth/OTPAuthActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/SecureRegistry.java -text
 bankdroid.start/src/bankdroid/start/messages.properties -text
 bankdroid.start/src/bankdroid/start/plugin/PluginManager.java -text
+bankdroid.start/src/bankdroid/util/AndroidFormatter.java -text
+bankdroid.start/src/bankdroid/util/AndroidHandler.java -text
 bankdroid.start/src/bankdroid/util/GUIUtil.java -text
 bankdroid.start/src/bankdroid/util/TrackedActivity.java -text
 bankdroid.tool/.classpath -text
