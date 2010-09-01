@@ -215,7 +215,9 @@ bankdroid.start/src/bankdroid/start/FakeAccountService.java -text
 bankdroid.start/src/bankdroid/start/LogoutActivity.java -text
 bankdroid.start/src/bankdroid/start/MainActivity.java -text
 bankdroid.start/src/bankdroid/start/Preferences.java -text
+bankdroid.start/src/bankdroid/start/Property.java -text
 bankdroid.start/src/bankdroid/start/PropertyAdapter.java -text
+bankdroid.start/src/bankdroid/start/PropertyHelper.java -text
 bankdroid.start/src/bankdroid/start/PropertyViewActivity.java -text
 bankdroid.start/src/bankdroid/start/SearchTransactionActivity.java -text
 bankdroid.start/src/bankdroid/start/ServiceActivity.java -text
