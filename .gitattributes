@@ -198,6 +198,7 @@ bankdroid.start/res/layout/tranitem.xml -text
 bankdroid.start/res/layout/tranlist.xml -text
 bankdroid.start/res/menu/acclistcontextmenu.xml -text
 bankdroid.start/res/menu/mainmenu.xml -text
+bankdroid.start/res/menu/tranlistcontextmenu.xml -text
 bankdroid.start/res/menu/userlistcontextmenu.xml -text
 bankdroid.start/res/values-hu/arrays.xml -text
 bankdroid.start/res/values-hu/strings.xml -text
