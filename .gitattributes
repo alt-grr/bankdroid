@@ -74,6 +74,7 @@ bankdroid.soda/AndroidManifest.xml -text
 bankdroid.soda/BankTest.launch -text
 bankdroid.soda/assets/EULA -text
 bankdroid.soda/assets/bankdef1.xml -text svneol=unset#text/plain
+bankdroid.soda/assets/bankdef10.xml -text
 bankdroid.soda/assets/bankdef2.xml -text
 bankdroid.soda/assets/bankdef3.xml -text
 bankdroid.soda/assets/bankdef4.xml -text
@@ -124,6 +125,7 @@ bankdroid.soda/res/drawable/takarek_logo.png -text
 bankdroid.soda/res/drawable/tatra_logo.png -text
 bankdroid.soda/res/drawable/twitter_icon.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
+bankdroid.soda/res/drawable/yapikredi_logo.png -text
 bankdroid.soda/res/layout/about.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/bankedit.xml -text
 bankdroid.soda/res/layout/banklist.xml -text
