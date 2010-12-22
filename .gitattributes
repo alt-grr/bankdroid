@@ -88,6 +88,7 @@ bankdroid.soda/res/drawable-hdpi/icon_infosite.png -text
 bankdroid.soda/res/drawable-hdpi/icon_managebank.png -text
 bankdroid.soda/res/drawable-hdpi/icon_submitsample.png -text
 bankdroid.soda/res/drawable-hdpi/icon_viewlast.png -text
+bankdroid.soda/res/drawable-hdpi/title_menu.png -text
 bankdroid.soda/res/drawable/alfabank_logo.png -text
 bankdroid.soda/res/drawable/aliorbank_logo.png -text
 bankdroid.soda/res/drawable/allianz_logo.png -text
@@ -133,6 +134,7 @@ bankdroid.soda/res/drawable/sparkasse_logo.png -text
 bankdroid.soda/res/drawable/svyaznoy_logo.png -text
 bankdroid.soda/res/drawable/takarek_logo.png -text
 bankdroid.soda/res/drawable/tatra_logo.png -text
+bankdroid.soda/res/drawable/title_menu.png -text
 bankdroid.soda/res/drawable/titlebackground.xml -text
 bankdroid.soda/res/drawable/twitter_icon.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
@@ -146,6 +148,7 @@ bankdroid.soda/res/layout/preferences.xml -text
 bankdroid.soda/res/layout/smslist.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/smslistitem.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/sod.xml -text
+bankdroid.soda/res/layout/titlebar.xml -text
 bankdroid.soda/res/menu/banklistcontextmenu.xml -text
 bankdroid.soda/res/menu/banklistmenu.xml -text
 bankdroid.soda/res/menu/normalmenu.xml -text
