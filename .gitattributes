@@ -84,9 +84,12 @@ bankdroid.soda/assets/bankdef7.xml -text
 bankdroid.soda/assets/bankdef8.xml -text
 bankdroid.soda/assets/bankdef9.xml -text
 bankdroid.soda/default.properties -text
+bankdroid.soda/res/drawable-hdpi/icon_facebook.png -text
+bankdroid.soda/res/drawable-hdpi/icon_gmail.png -text
 bankdroid.soda/res/drawable-hdpi/icon_infosite.png -text
 bankdroid.soda/res/drawable-hdpi/icon_managebank.png -text
 bankdroid.soda/res/drawable-hdpi/icon_submitsample.png -text
+bankdroid.soda/res/drawable-hdpi/icon_twitter.png -text
 bankdroid.soda/res/drawable-hdpi/icon_viewlast.png -text
 bankdroid.soda/res/drawable-hdpi/title_menu.png -text
 bankdroid.soda/res/drawable/alfabank_logo.png -text
@@ -107,10 +110,12 @@ bankdroid.soda/res/drawable/era_logo.png -text
 bankdroid.soda/res/drawable/erste_logo.png -text
 bankdroid.soda/res/drawable/fhb_logo.png -text
 bankdroid.soda/res/drawable/ge_logo.png -text
-bankdroid.soda/res/drawable/gmail_icon.png -text
+bankdroid.soda/res/drawable/icon_facebook.png -text
+bankdroid.soda/res/drawable/icon_gmail.png -text
 bankdroid.soda/res/drawable/icon_infosite.png -text
 bankdroid.soda/res/drawable/icon_managebank.png -text
 bankdroid.soda/res/drawable/icon_submitsample.png -text
+bankdroid.soda/res/drawable/icon_twitter.png -text
 bankdroid.soda/res/drawable/icon_viewlast.png -text
 bankdroid.soda/res/drawable/info_icon.png -text
 bankdroid.soda/res/drawable/intesa_logo.png -text
@@ -137,7 +142,6 @@ bankdroid.soda/res/drawable/takarek_logo.png -text
 bankdroid.soda/res/drawable/tatra_logo.png -text
 bankdroid.soda/res/drawable/title_menu.png -text
 bankdroid.soda/res/drawable/titlebackground.xml -text
-bankdroid.soda/res/drawable/twitter_icon.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
 bankdroid.soda/res/drawable/yapikredi_logo.png -text
 bankdroid.soda/res/layout/about.xml -text svneol=unset#text/plain
