@@ -184,7 +184,6 @@ bankdroid.soda/src/bankdroid/soda/Preferences.java -text
 bankdroid.soda/src/bankdroid/soda/SMSListActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
-bankdroid.soda/src/bankdroid/soda/test/BankTest.java -text
 bankdroid.start/.classpath -text
 bankdroid.start/.project -text
 bankdroid.start/AndroidManifest.xml -text
