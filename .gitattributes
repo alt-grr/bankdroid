@@ -91,6 +91,7 @@ bankdroid.soda/res/drawable-hdpi/icon_managebank.png -text
 bankdroid.soda/res/drawable-hdpi/icon_submitsample.png -text
 bankdroid.soda/res/drawable-hdpi/icon_twitter.png -text
 bankdroid.soda/res/drawable-hdpi/icon_viewlast.png -text
+bankdroid.soda/res/drawable-hdpi/soda_launch.png -text
 bankdroid.soda/res/drawable-hdpi/title_menu.png -text
 bankdroid.soda/res/drawable/alfabank_logo.png -text
 bankdroid.soda/res/drawable/aliorbank_logo.png -text
@@ -110,6 +111,8 @@ bankdroid.soda/res/drawable/era_logo.png -text
 bankdroid.soda/res/drawable/erste_logo.png -text
 bankdroid.soda/res/drawable/fhb_logo.png -text
 bankdroid.soda/res/drawable/ge_logo.png -text
+bankdroid.soda/res/drawable/getin_logo.png -text
+bankdroid.soda/res/drawable/icon_about.png -text
 bankdroid.soda/res/drawable/icon_facebook.png -text
 bankdroid.soda/res/drawable/icon_gmail.png -text
 bankdroid.soda/res/drawable/icon_infosite.png -text
