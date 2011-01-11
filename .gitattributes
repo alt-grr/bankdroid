@@ -323,8 +323,6 @@ hu.tminfo/res/layout/widget.xml -text
 hu.tminfo/res/layout/widget1_1.xml -text
 hu.tminfo/res/menu/itemmenu.xml -text
 hu.tminfo/res/menu/mainmenu.xml -text
-hu.tminfo/res/values-en/arrays.xml -text
-hu.tminfo/res/values-en/strings.xml -text
 hu.tminfo/res/values/arrays.xml -text
 hu.tminfo/res/values/colors.xml -text
 hu.tminfo/res/values/strings.xml -text
