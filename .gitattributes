@@ -76,6 +76,7 @@ bankdroid.soda/assets/EULA -text
 bankdroid.soda/assets/bankdef1.xml -text svneol=unset#text/plain
 bankdroid.soda/assets/bankdef10.xml -text
 bankdroid.soda/assets/bankdef11.xml -text
+bankdroid.soda/assets/bankdef12.xml -text
 bankdroid.soda/assets/bankdef2.xml -text
 bankdroid.soda/assets/bankdef3.xml -text
 bankdroid.soda/assets/bankdef4.xml -text
@@ -150,6 +151,7 @@ bankdroid.soda/res/drawable/title_menu.png -text
 bankdroid.soda/res/drawable/titlebackground.xml -text
 bankdroid.soda/res/drawable/ukrsibbank_logo.png -text
 bankdroid.soda/res/drawable/unicredit_logo.png -text
+bankdroid.soda/res/drawable/vietcom_logo.png -text
 bankdroid.soda/res/drawable/yapikredi_logo.png -text
 bankdroid.soda/res/layout/about.xml -text svneol=unset#text/plain
 bankdroid.soda/res/layout/bankedit.xml -text
