@@ -299,6 +299,7 @@ hu.tminfo/.project -text
 hu.tminfo/.settings/org.eclipse.core.resources.prefs -text
 hu.tminfo/.settings/org.hibernate.eclipse.console.prefs -text
 hu.tminfo/AndroidManifest.xml -text
+hu.tminfo/assets/youtube_layer.png -text
 hu.tminfo/default.properties -text
 hu.tminfo/libs/libGoogleAnalytics.jar -text
 hu.tminfo/res/drawable/ic_menu_markallasread.png -text
@@ -334,6 +335,7 @@ hu.tminfo/res/values/strings.xml -text
 hu.tminfo/res/xml/portal_widget_info.xml -text
 hu.tminfo/res/xml/widget1_1_info.xml -text
 hu.tminfo/src/bankdroid/rss/CommentIDExtractor.java -text
+hu.tminfo/src/bankdroid/rss/ContentFilter.java -text
 hu.tminfo/src/bankdroid/rss/EndIDExtractor.java -text
 hu.tminfo/src/bankdroid/rss/Formatters.java -text
 hu.tminfo/src/bankdroid/rss/HTMLEntities.java -text
@@ -344,6 +346,7 @@ hu.tminfo/src/bankdroid/rss/RSSItem.java -text
 hu.tminfo/src/bankdroid/rss/RSSObject.java -text
 hu.tminfo/src/bankdroid/rss/RSSStream.java -text
 hu.tminfo/src/bankdroid/rss/StandardIDExtractor.java -text
+hu.tminfo/src/bankdroid/rss/YoutubeFilter.java -text
 hu.tminfo/src/hu/tminfo/AboutActivity.java -text
 hu.tminfo/src/hu/tminfo/Codes.java -text
 hu.tminfo/src/hu/tminfo/ItemListActivity.java -text
