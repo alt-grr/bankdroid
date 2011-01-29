@@ -78,6 +78,7 @@ bankdroid.soda/assets/bankdef10.xml -text
 bankdroid.soda/assets/bankdef11.xml -text
 bankdroid.soda/assets/bankdef12.xml -text
 bankdroid.soda/assets/bankdef13.xml -text
+bankdroid.soda/assets/bankdef14.xml -text
 bankdroid.soda/assets/bankdef2.xml -text
 bankdroid.soda/assets/bankdef3.xml -text
 bankdroid.soda/assets/bankdef4.xml -text
@@ -110,6 +111,7 @@ bankdroid.soda/res/drawable/boa_logo.png -text
 bankdroid.soda/res/drawable/budapestbank_logo.png -text
 bankdroid.soda/res/drawable/button.xml -text
 bankdroid.soda/res/drawable/citibank_logo.png -text
+bankdroid.soda/res/drawable/creditsuisse_logo.png -text
 bankdroid.soda/res/drawable/csob_logo.png -text
 bankdroid.soda/res/drawable/donate2.png -text
 bankdroid.soda/res/drawable/era_logo.png -text
