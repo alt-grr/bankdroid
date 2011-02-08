@@ -69,6 +69,7 @@ bankdroid.andralytics/src/bankdroid/andralytics/ShareUtils.java -text
 bankdroid.andralytics/src/bankdroid/andralytics/TrackedActivity.java -text
 bankdroid.soda.bank.test/.classpath -text
 bankdroid.soda.bank.test/.project -text
+bankdroid.soda.bank.test/BankTest.launch -text
 bankdroid.soda.bank.test/src/bankdroid/soda/bank/test/BankTest.java -text
 bankdroid.soda.bank.test/src/bankdroid/soda/bank/test/BankTestBase.java -text
 bankdroid.soda.bank.test/src/bankdroid/soda/bank/test/GenerateTest.java -text
