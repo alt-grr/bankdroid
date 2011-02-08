@@ -67,6 +67,10 @@ bankdroid.andralytics/res/values/strings.xml -text
 bankdroid.andralytics/src/bankdroid/andralytics/MainActivity.java -text
 bankdroid.andralytics/src/bankdroid/andralytics/ShareUtils.java -text
 bankdroid.andralytics/src/bankdroid/andralytics/TrackedActivity.java -text
+bankdroid.soda.bank/src/bankdroid/soda/bank/Bank.java -text
+bankdroid.soda.bank/src/bankdroid/soda/bank/BankDefinitionHandler.java -text
+bankdroid.soda.bank/src/bankdroid/soda/bank/BankDescriptor.java -text
+bankdroid.soda.bank/src/bankdroid/soda/bank/Expression.java -text
 bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
