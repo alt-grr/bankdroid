@@ -142,22 +142,7 @@ bankdroid.soda/.classpath -text
 bankdroid.soda/.project -text
 bankdroid.soda/.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
 bankdroid.soda/AndroidManifest.xml -text
-bankdroid.soda/BankTest.launch -text
 bankdroid.soda/assets/EULA -text
-bankdroid.soda/assets/bankdef1.xml -text svneol=unset#text/plain
-bankdroid.soda/assets/bankdef10.xml -text
-bankdroid.soda/assets/bankdef11.xml -text
-bankdroid.soda/assets/bankdef12.xml -text
-bankdroid.soda/assets/bankdef13.xml -text
-bankdroid.soda/assets/bankdef14.xml -text
-bankdroid.soda/assets/bankdef2.xml -text
-bankdroid.soda/assets/bankdef3.xml -text
-bankdroid.soda/assets/bankdef4.xml -text
-bankdroid.soda/assets/bankdef5.xml -text
-bankdroid.soda/assets/bankdef6.xml -text
-bankdroid.soda/assets/bankdef7.xml -text
-bankdroid.soda/assets/bankdef8.xml -text
-bankdroid.soda/assets/bankdef9.xml -text
 bankdroid.soda/default.properties -text
 bankdroid.soda/res/drawable-hdpi/icon_facebook.png -text
 bankdroid.soda/res/drawable-hdpi/icon_gmail.png -text
@@ -253,8 +238,6 @@ bankdroid.soda/res/values/colors.xml -text
 bankdroid.soda/res/values/strings.xml -text
 bankdroid.soda/res/values/styles.xml -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/AboutActivity.java -text svneol=unset#text/plain
-bankdroid.soda/src/bankdroid/soda/Bank.java -text
-bankdroid.soda/src/bankdroid/soda/BankDefinitionHandler.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
 bankdroid.soda/src/bankdroid/soda/BankManager.java -text svneol=unset#text/plain
@@ -262,7 +245,6 @@ bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Eula.java -text
-bankdroid.soda/src/bankdroid/soda/Expression.java -text
 bankdroid.soda/src/bankdroid/soda/Formatters.java -text
 bankdroid.soda/src/bankdroid/soda/Main.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/MenuActivity.java -text
