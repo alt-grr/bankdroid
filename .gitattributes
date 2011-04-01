@@ -215,6 +215,7 @@ bankdroid.soda/src/bankdroid/util/AppId.java -text
 bankdroid.start/.classpath -text
 bankdroid.start/.project -text
 bankdroid.start/AndroidManifest.xml -text
+bankdroid.start/BankDroid[!!-~]START.launch -text
 bankdroid.start/assets/EULA -text
 bankdroid.start/default.properties -text
 bankdroid.start/libs/admob-sdk-android.jar -text
