@@ -218,7 +218,6 @@ bankdroid.start/AndroidManifest.xml -text
 bankdroid.start/BankDroid[!!-~]START.launch -text
 bankdroid.start/assets/EULA -text
 bankdroid.start/default.properties -text
-bankdroid.start/libs/admob-sdk-android.jar -text
 bankdroid.start/libs/libGoogleAnalytics.jar -text
 bankdroid.start/res/drawable-hdpi/icon_facebook.png -text
 bankdroid.start/res/drawable-hdpi/icon_gmail.png -text
