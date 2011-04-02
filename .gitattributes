@@ -218,6 +218,7 @@ bankdroid.start/AndroidManifest.xml -text
 bankdroid.start/BankDroid[!!-~]START.launch -text
 bankdroid.start/assets/EULA -text
 bankdroid.start/default.properties -text
+bankdroid.start/libs/admob-sdk-android.jar -text
 bankdroid.start/libs/libGoogleAnalytics.jar -text
 bankdroid.start/res/drawable-hdpi/icon_facebook.png -text
 bankdroid.start/res/drawable-hdpi/icon_gmail.png -text
@@ -258,7 +259,6 @@ bankdroid.start/res/layout/auth_otp.xml -text
 bankdroid.start/res/layout/authbankselect.xml -text
 bankdroid.start/res/layout/authstart.xml -text
 bankdroid.start/res/layout/customeritem.xml -text
-bankdroid.start/res/layout/logout.xml -text
 bankdroid.start/res/layout/main.xml -text
 bankdroid.start/res/layout/main_icons.xml -text
 bankdroid.start/res/layout/onerow.xml -text
@@ -288,7 +288,6 @@ bankdroid.start/src/bankdroid/start/AccountListActivity.java -text
 bankdroid.start/src/bankdroid/start/Codes.java -text
 bankdroid.start/src/bankdroid/start/Eula.java -text
 bankdroid.start/src/bankdroid/start/FakeAccountService.java -text
-bankdroid.start/src/bankdroid/start/LogoutActivity.java -text
 bankdroid.start/src/bankdroid/start/MainActivity.java -text
 bankdroid.start/src/bankdroid/start/Preferences.java -text
 bankdroid.start/src/bankdroid/start/Property.java -text
