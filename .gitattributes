@@ -254,6 +254,7 @@ bankdroid.start/res/layout/accountitem.xml -text
 bankdroid.start/res/layout/accountlist.xml -text
 bankdroid.start/res/layout/auth_bha.xml -text
 bankdroid.start/res/layout/auth_dummy.xml -text
+bankdroid.start/res/layout/auth_header.xml -text
 bankdroid.start/res/layout/auth_otp.xml -text
 bankdroid.start/res/layout/authbankselect.xml -text
 bankdroid.start/res/layout/authstart.xml -text
