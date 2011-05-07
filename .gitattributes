@@ -388,6 +388,12 @@ hu.tminfo/src/hu/tminfo/ToolbarActivity.java -text
 hu.tminfo/src/hu/tminfo/TrackedActivity.java -text
 hu.tminfo/src/hu/tminfo/widget/PortalWidgetProvider.java -text
 hu.tminfo/src/hu/tminfo/widget/Widget11Provider.java -text
+sample.twitter.cheatsheet/.project -text
+sample.twitter.cheatsheet/TwitterItem.java -text
+sample.twitter.cheatsheet/cheatsheet -text
+sample.twitter.cheatsheet/listanim.xml -text
+sample.twitter.cheatsheet/snippets.java -text
+sample.twitter.cheatsheet/twitter.js -text
 sample.twitter/.classpath -text
 sample.twitter/.project -text
 sample.twitter/AndroidManifest.xml -text
