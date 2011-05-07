@@ -393,6 +393,7 @@ sample.twitter/.project -text
 sample.twitter/AndroidManifest.xml -text
 sample.twitter/default.properties -text
 sample.twitter/proguard.cfg -text
+sample.twitter/res/anim/listanim.xml -text
 sample.twitter/res/drawable-hdpi/icon.png -text
 sample.twitter/res/drawable-ldpi/icon.png -text
 sample.twitter/res/drawable-mdpi/icon.png -text
