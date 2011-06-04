@@ -302,6 +302,7 @@ bankdroid.start/src/bankdroid/start/SessionManager.java -text
 bankdroid.start/src/bankdroid/start/TransactionAdapter.java -text
 bankdroid.start/src/bankdroid/start/TransactionFilter.java -text
 bankdroid.start/src/bankdroid/start/TransactionListActivity.java -text
+bankdroid.start/src/bankdroid/start/auth/AXAAuthActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/AuthBankSelectActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/AuthStartActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/AuthUtil.java -text
