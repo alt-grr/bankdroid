@@ -229,6 +229,7 @@ bankdroid.start/res/drawable/bankdroid_icon.png -text
 bankdroid.start/res/drawable/bankdroid_logo.png -text
 bankdroid.start/res/drawable/bankdroid_status_icon.png -text
 bankdroid.start/res/drawable/button.xml -text
+bankdroid.start/res/drawable/del.png -text
 bankdroid.start/res/drawable/donate2.png -text
 bankdroid.start/res/drawable/field_background.xml -text
 bankdroid.start/res/drawable/icon.png -text
@@ -246,6 +247,9 @@ bankdroid.start/res/drawable/menu_transactions.png -text
 bankdroid.start/res/drawable/menubuttonbackground.xml -text
 bankdroid.start/res/drawable/page_header.xml -text
 bankdroid.start/res/drawable/panel_background.xml -text
+bankdroid.start/res/drawable/pin_active.xml -text
+bankdroid.start/res/drawable/pin_disabled.xml -text
+bankdroid.start/res/drawable/pin_normal.xml -text
 bankdroid.start/res/drawable/select_button.xml -text
 bankdroid.start/res/drawable/title_menu.png -text
 bankdroid.start/res/drawable/titlebackground.xml -text
