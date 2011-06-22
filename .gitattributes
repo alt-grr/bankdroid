@@ -266,6 +266,7 @@ bankdroid.start/res/layout/auth_bha.xml -text
 bankdroid.start/res/layout/auth_dummy.xml -text
 bankdroid.start/res/layout/auth_header.xml -text
 bankdroid.start/res/layout/auth_otp.xml -text
+bankdroid.start/res/layout/auth_otp_smsotp.xml -text
 bankdroid.start/res/layout/authbankselect.xml -text
 bankdroid.start/res/layout/authstart.xml -text
 bankdroid.start/res/layout/customeritem.xml -text
@@ -323,6 +324,7 @@ bankdroid.start/src/bankdroid/start/auth/BankAdapter.java -text
 bankdroid.start/src/bankdroid/start/auth/CustomerAdapter.java -text
 bankdroid.start/src/bankdroid/start/auth/DummyAuthActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/OTPAuthActivity.java -text
+bankdroid.start/src/bankdroid/start/auth/OTPSMSOTPActivity.java -text
 bankdroid.start/src/bankdroid/start/auth/SecureRegistry.java -text
 bankdroid.start/src/bankdroid/start/messages.properties -text
 bankdroid.start/src/bankdroid/start/plugin/PluginManager.java -text
