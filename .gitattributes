@@ -201,6 +201,7 @@ bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
 bankdroid.soda/src/bankdroid/soda/BankManager.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
+bankdroid.soda/src/bankdroid/soda/Code.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Eula.java -text
