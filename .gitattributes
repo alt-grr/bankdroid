@@ -201,7 +201,6 @@ bankdroid.soda/src/bankdroid/soda/BankEditActivity.java -text svneol=unset#text/
 bankdroid.soda/src/bankdroid/soda/BankListActivity.java -text
 bankdroid.soda/src/bankdroid/soda/BankManager.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/BankProvider.java -text
-bankdroid.soda/src/bankdroid/soda/Code.java -text
 bankdroid.soda/src/bankdroid/soda/Codes.java -text
 bankdroid.soda/src/bankdroid/soda/CountDown.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/Eula.java -text
@@ -210,6 +209,7 @@ bankdroid.soda/src/bankdroid/soda/Main.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/MenuActivity.java -text
 bankdroid.soda/src/bankdroid/soda/Message.java -text
 bankdroid.soda/src/bankdroid/soda/Preferences.java -text
+bankdroid.soda/src/bankdroid/soda/SMSCheckerTask.java -text
 bankdroid.soda/src/bankdroid/soda/SMSListActivity.java -text svneol=unset#text/plain
 bankdroid.soda/src/bankdroid/soda/SMSOTPDisplay.java -text
 bankdroid.soda/src/bankdroid/soda/SMSReceiver.java -text
