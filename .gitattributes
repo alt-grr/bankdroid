@@ -67,6 +67,13 @@ bankdroid.andralytics/res/values/strings.xml -text
 bankdroid.andralytics/src/bankdroid/andralytics/MainActivity.java -text
 bankdroid.andralytics/src/bankdroid/andralytics/ShareUtils.java -text
 bankdroid.andralytics/src/bankdroid/andralytics/TrackedActivity.java -text
+bankdroid.smskey.bank.test/.classpath -text
+bankdroid.smskey.bank.test/.project -text
+bankdroid.smskey.bank.test/.settings/org.eclipse.core.resources.prefs -text
+bankdroid.smskey.bank.test/src/bankdroid/smskey/bank/test/BankTest.java -text
+bankdroid.smskey.bank.test/src/bankdroid/smskey/bank/test/BankTestBase.java -text
+bankdroid.smskey.bank.test/src/bankdroid/smskey/bank/test/Convert.java -text
+bankdroid.smskey.bank.test/src/bankdroid/smskey/bank/test/GenerateTest.java -text
 bankdroid.smskey.bank/.classpath -text
 bankdroid.smskey.bank/.project -text
 bankdroid.smskey.bank/.settings/org.eclipse.core.resources.prefs -text
