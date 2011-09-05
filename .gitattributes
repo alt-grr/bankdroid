@@ -90,6 +90,7 @@ bankdroid.smskey/.settings/org.eclipse.core.resources.prefs -text
 bankdroid.smskey/AndroidManifest.xml -text
 bankdroid.smskey/assets/EULA -text
 bankdroid.smskey/default.properties -text
+bankdroid.smskey/res/drawable-hdpi/icon_androidmarket.png -text
 bankdroid.smskey/res/drawable-hdpi/icon_facebook.png -text
 bankdroid.smskey/res/drawable-hdpi/icon_gmail.png -text
 bankdroid.smskey/res/drawable-hdpi/icon_infosite.png -text
@@ -123,6 +124,7 @@ bankdroid.smskey/res/layout/about.xml -text
 bankdroid.smskey/res/layout/bankedit.xml -text
 bankdroid.smskey/res/layout/banklist.xml -text
 bankdroid.smskey/res/layout/banklistitem.xml -text
+bankdroid.smskey/res/layout/campaign_rateapp.xml -text
 bankdroid.smskey/res/layout/main.xml -text
 bankdroid.smskey/res/layout/preferences.xml -text
 bankdroid.smskey/res/layout/smslist.xml -text
