@@ -144,6 +144,10 @@ bankdroid.smskey/res/values-tr/strings.xml -text
 bankdroid.smskey/res/values/colors.xml -text
 bankdroid.smskey/res/values/strings.xml -text
 bankdroid.smskey/res/values/styles.xml -text
+bankdroid.smskey/src/bankdroid/campaign/Campaign.java -text
+bankdroid.smskey/src/bankdroid/campaign/CampaignManager.java -text
+bankdroid.smskey/src/bankdroid/campaign/CampaignStatus.java -text
+bankdroid.smskey/src/bankdroid/campaign/MarketRateCampaign.java -text
 bankdroid.smskey/src/bankdroid/smskey/AboutActivity.java -text
 bankdroid.smskey/src/bankdroid/smskey/BankEditActivity.java -text
 bankdroid.smskey/src/bankdroid/smskey/BankListActivity.java -text
