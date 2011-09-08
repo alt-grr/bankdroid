@@ -126,6 +126,7 @@ bankdroid.smskey/res/layout/bankedit.xml -text
 bankdroid.smskey/res/layout/banklist.xml -text
 bankdroid.smskey/res/layout/banklistitem.xml -text
 bankdroid.smskey/res/layout/campaign_rateapp.xml -text
+bankdroid.smskey/res/layout/campaign_visitblog.xml -text
 bankdroid.smskey/res/layout/main.xml -text
 bankdroid.smskey/res/layout/preferences.xml -text
 bankdroid.smskey/res/layout/smslist.xml -text
@@ -149,6 +150,7 @@ bankdroid.smskey/src/bankdroid/campaign/Campaign.java -text
 bankdroid.smskey/src/bankdroid/campaign/CampaignManager.java -text
 bankdroid.smskey/src/bankdroid/campaign/CampaignStatus.java -text
 bankdroid.smskey/src/bankdroid/campaign/MarketRateCampaign.java -text
+bankdroid.smskey/src/bankdroid/campaign/VisitBlogCampaign.java -text
 bankdroid.smskey/src/bankdroid/smskey/AboutActivity.java -text
 bankdroid.smskey/src/bankdroid/smskey/BankEditActivity.java -text
 bankdroid.smskey/src/bankdroid/smskey/BankListActivity.java -text
