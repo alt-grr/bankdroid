@@ -108,6 +108,7 @@ bankdroid.smskey/res/drawable/background3.xml -text
 bankdroid.smskey/res/drawable/bankdroid_logo.png -text
 bankdroid.smskey/res/drawable/button.xml -text
 bankdroid.smskey/res/drawable/campaign_bkg1.xml -text
+bankdroid.smskey/res/drawable/campaign_bkg2.xml -text
 bankdroid.smskey/res/drawable/donate2.png -text
 bankdroid.smskey/res/drawable/facebook_like.png -text
 bankdroid.smskey/res/drawable/icon_about.png -text
@@ -128,6 +129,7 @@ bankdroid.smskey/res/layout/about.xml -text
 bankdroid.smskey/res/layout/bankedit.xml -text
 bankdroid.smskey/res/layout/banklist.xml -text
 bankdroid.smskey/res/layout/banklistitem.xml -text
+bankdroid.smskey/res/layout/campaign_donate.xml -text
 bankdroid.smskey/res/layout/campaign_facebook.xml -text
 bankdroid.smskey/res/layout/campaign_rateapp.xml -text
 bankdroid.smskey/res/layout/campaign_visitblog.xml -text
@@ -153,6 +155,7 @@ bankdroid.smskey/res/values/styles.xml -text
 bankdroid.smskey/src/bankdroid/campaign/Campaign.java -text
 bankdroid.smskey/src/bankdroid/campaign/CampaignManager.java -text
 bankdroid.smskey/src/bankdroid/campaign/CampaignStatus.java -text
+bankdroid.smskey/src/bankdroid/campaign/DonateCampaign.java -text
 bankdroid.smskey/src/bankdroid/campaign/FacebookCampaign.java -text
 bankdroid.smskey/src/bankdroid/campaign/MarketRateCampaign.java -text
 bankdroid.smskey/src/bankdroid/campaign/VisitBlogCampaign.java -text
