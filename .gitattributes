@@ -179,6 +179,7 @@ bankdroid.smskey/src/bankdroid/smskey/SMSListActivity.java -text
 bankdroid.smskey/src/bankdroid/smskey/SMSOTPDisplay.java -text
 bankdroid.smskey/src/bankdroid/smskey/SMSReceiver.java -text
 bankdroid.smskey/src/bankdroid/util/AppId.java -text
+bankdroid.smskey/src/bankdroid/util/ErrorLogger.java -text
 bankdroid.soda.bank.test/.classpath -text
 bankdroid.soda.bank.test/.project -text
 bankdroid.soda.bank.test/BankTest.launch -text
