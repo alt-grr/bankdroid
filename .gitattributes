@@ -89,6 +89,7 @@ bankdroid.smskey/.project -text
 bankdroid.smskey/.settings/org.eclipse.core.resources.prefs -text
 bankdroid.smskey/AndroidManifest.xml -text
 bankdroid.smskey/assets/EULA -text
+bankdroid.smskey/lint.xml -text
 bankdroid.smskey/project.properties -text
 bankdroid.smskey/res/anim/slide_in_bottom.xml -text
 bankdroid.smskey/res/drawable-hdpi/facebook_like.png -text
