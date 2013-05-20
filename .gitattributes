@@ -464,11 +464,13 @@ hu.tminfo/assets/youtube_layer.png -text
 hu.tminfo/libs/libGoogleAnalytics.jar -text
 hu.tminfo/project.properties -text
 hu.tminfo/res/drawable-hdpi/ic_menu_agenda.png -text
+hu.tminfo/res/drawable-hdpi/ic_menu_close_clear_cancel.png -text
 hu.tminfo/res/drawable-hdpi/ic_menu_info_details.png -text
 hu.tminfo/res/drawable-hdpi/ic_menu_preferences.png -text
 hu.tminfo/res/drawable-hdpi/ic_menu_rotate.png -text
 hu.tminfo/res/drawable-hdpi/ic_menu_share.png -text
 hu.tminfo/res/drawable/ic_menu_agenda.png -text
+hu.tminfo/res/drawable/ic_menu_close_clear_cancel.png -text
 hu.tminfo/res/drawable/ic_menu_info_details.png -text
 hu.tminfo/res/drawable/ic_menu_preferences.png -text
 hu.tminfo/res/drawable/ic_menu_rotate.png -text
